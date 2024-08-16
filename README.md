@@ -1,6 +1,5 @@
 # T5-Data-Science-AI-Practice
 Projects, datasets, and code from my T5 Bootcamp practice. Focuses on hands-on application of machine learning, deep learning, and data science techniques learned during the course.
-Sure! Here's an updated description with the bootcamp name included, and a suggested name for the repository:
 
 ---
 
